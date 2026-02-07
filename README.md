@@ -12,7 +12,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+To provide NYU students and faculty a simple and centralized mobile app that shows nearby restaurants offering student discounts, making it easier to budget and find new places.
 
 ## User Requirements
 

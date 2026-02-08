@@ -64,9 +64,9 @@ The product is a simple mobile app that helps NYU students and faculty discover 
 
 ## User Requirements
 1. As a student user, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup. 
-2. As a restaurant user, I want to easily create, update, and remove discounted or promotional items, so I can quickly manage frequently changing offers without unnecessary manual effort.
+2. As a system, I want to automatically generate and send order confirmations to restaurant owners, so that orders can be printed and prepared without the restaurant needing to manage or configure the app.
 3. As a student user, I want to reserve or order discounted and promotional items, including coupons, so I can secure the deal, apply the discount at checkout, and pick up my order later before the items sell out. 
-4. As a restaurant, I want to list multiple discounted items with real-time availability, so students can order and pick them up before closing and I can reduce end-of-day food waste.
+4. As a system, I want to maintain and display multiple discounted items per restaurant with up-to-date availability, so students can reserve items before closing and restaurants can reduce end-of-day food waste without manual app management.
 5. As a student user, I want to filter discounted items by distance, price, and pickup time, so I can quickly find deals that fit my schedule and location.
 6. As a student user, I want to receive notifications when nearby restaurants add new discounts or increase discounts near closing time, so I do not miss good deals.
 7. As an NYU student, I want to see all nearby restaurants offering student discounts so that I can save money on meals.

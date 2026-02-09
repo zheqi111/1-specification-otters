@@ -75,7 +75,7 @@ Health focused Student Athlete
 
 
 
-### Derrick Li - Hashi Market<br>
+### Hashi Market<br>
 **Restuarant Goals** <br>
 Hashi Market already offers end-of-day discounts on ready-to-go products and provides student discounts, showing a clear effort to reduce food waste while remaining affordable. With multiple locations and an active social media presence, the brand is well positioned to attract student customers. A key overarching goal is to further minimize food waste while maintaining operational efficiency.
 
@@ -90,6 +90,10 @@ Tartinery currently offers NYU students a discount of 10% as they want to promot
 Given that they already offer the NYU 10% discount and they have little food waste, Tartinery did not express to us many problems that need solving. However, they did mention that a lot of students don't realize the 10% discount and they have to ask them whether they're students to inform them of such.
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+
+### Butter<br>
+
+
 
 ### Overview<br>
 

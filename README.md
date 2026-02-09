@@ -3,7 +3,7 @@
 A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
 
 ## APP name 
-
+Campus Bites
 
 ## Team members
 
@@ -105,7 +105,6 @@ Tartinery currently offers NYU students a discount of 10% as they want to promot
 **Restaurant Problem**<br>
 Given that they already offer the NYU 10% discount and they have little food waste, Tartinery did not express to us many problems that need solving. However, they did mention that a lot of students don't realize the 10% discount and they have to ask them whether they're students to inform them of such.
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 ### Butter<br>
 

@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Ethan Demol - https://github.com/ethandemol<br>
 Kyle Chen - https://github.com/KyleC55<br>
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+
 
 
 ## Stakeholders
@@ -62,13 +62,13 @@ As a result, our primary and sole user is now the NYU student, and the applicati
 
 ## Product Vision Statement
 
-To provide NYU students and faculty a simple and centralized mobile app that shows nearby restaurants offering student discounts, making it easier to budget and find new places.
+A mobile app that helps NYU students quickly discover nearby restaurants offering student discounts, view the discount details, and navigate to the best option based on distance and preference.
 
 ## User Requirements
 1. As a student user, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup. 
-2. As a restaurant user, I want to easily create, update, and remove discounted or promotional items, so I can quickly manage frequently changing offers without unnecessary manual effort.
+2. As a system, I want to automatically generate and send order confirmations to restaurant owners, so that orders can be printed and prepared without the restaurant needing to manage or configure the app.
 3. As a student user, I want to reserve or order discounted and promotional items, including coupons, so I can secure the deal, apply the discount at checkout, and pick up my order later before the items sell out. 
-4. As a restaurant, I want to list multiple discounted items with real-time availability, so students can order and pick them up before closing and I can reduce end-of-day food waste.
+4. As a system, I want to maintain and display multiple discounted items per restaurant with up-to-date availability, so students can reserve items before closing and restaurants can reduce end-of-day food waste without manual app management.
 5. As a student user, I want to filter discounted items by distance, price, and pickup time, so I can quickly find deals that fit my schedule and location.
 6. As a student user, I want to receive notifications when nearby restaurants add new discounts or increase discounts near closing time, so I do not miss good deals.
 7. As an NYU student, I want to see all nearby restaurants offering student discounts so that I can save money on meals.
@@ -82,12 +82,22 @@ To provide NYU students and faculty a simple and centralized mobile app that sho
 15. As a restaurant owner, I want students to easily see that we offer a discount so that staff don’t need to explain it repeatedly.
 16. As a restaurant owner, I want students to easily know our current discount so that we can encourage students to come midweek for lunch when we are less busy.
 
-See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
+**User Story:**  
+As a student user, I want to reserve or order discounted and promotional items, including coupons, so I can secure the deal and pick up my order later before the items sell out.
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML Activity Diagram - Order for Pickup](images/Diagram1.png)
+
+## UML Activity Diagram 2 . Nearby Discounts
+
+**User Story:**  
+As a student user, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup.
+
+![UML Activity Diagram - Nearby Discounts](images/Diagram2.png)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+**[Clickable Prototype](https://www.figma.com/proto/JxEQS6iTELe9u8KcojCFyC/Otters---Wireframe---Prototype?node-id=23-3&p=f&t=4Mx8STc7zvDBF5pH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3):** <br>
+Link To Prototype: 
+https://www.figma.com/proto/JxEQS6iTELe9u8KcojCFyC/Otters---Wireframe---Prototype?node-id=23-3&p=f&t=4Mx8STc7zvDBF5pH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=23%3A3

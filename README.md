@@ -76,8 +76,8 @@ A mobile app that helps NYU students quickly discover nearby restaurants offerin
 8. As an NYU student, I want to discover new restaurants near campus so that I don’t always eat at the same places.
 9. As an NYU student, I want the app to show only restaurants near campus so that the information feels relevant and useful.
 10. As an NYU student, I want the app to be simple and fast to use so that finding a discount doesn’t feel like extra work.
-11. As a student user, I want to reserve or order discounted and promotional items, including coupons, so I can secure the deal and pick up my order later before the items sell out.
-12. As a student user, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup.
+11. As an NYU student, I want to reserve or order discounted and promotional items, including coupons, so I can secure the deal and pick up my order later before the items sell out.
+12. As an NYU student, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup.
 
 ## Activity Diagrams
 **User Story:**  

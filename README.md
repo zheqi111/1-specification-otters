@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Ethan Demol - https://github.com/ethandemol<br>
 Kyle Chen - https://github.com/KyleC55<br>
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+
 
 
 ## Stakeholders
@@ -60,7 +60,7 @@ As a result, our primary and sole user is now the NYU student, and the applicati
 
 ## Product Vision Statement
 
-The product is a simple mobile app that helps NYU students and faculty discover nearby restaurants with student discounts, reserve discounted items, and pick them up conveniently. Restaurants are notified automatically when an order is placed.
+A mobile app that helps NYU students quickly discover nearby restaurants offering student discounts, view the discount details, and navigate to the best option based on distance and preference.
 
 ## User Requirements
 1. As a student user, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup. 
@@ -80,7 +80,6 @@ The product is a simple mobile app that helps NYU students and faculty discover 
 15. As a restaurant owner, I want students to easily see that we offer a discount so that staff don’t need to explain it repeatedly.
 16. As a restaurant owner, I want students to easily know our current discount so that we can encourage students to come midweek for lunch when we are less busy.
 
-See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 **User Story:**  
@@ -94,8 +93,6 @@ As a student user, I want to reserve or order discounted and promotional items, 
 As a student user, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup.
 
 ![UML Activity Diagram - Nearby Discounts](images/Diagram2.png)
-
-See instructions. Delete this line and place images of your UML Activity diagrams here.
 
 ## Clickable Prototype
 

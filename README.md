@@ -86,14 +86,14 @@ See instructions. Delete this line and place a list of your User Stories here.
 **User Story:**  
 As a student user, I want to reserve or order discounted and promotional items, including coupons, so I can secure the deal and pick up my order later before the items sell out.
 
-![UML Activity Diagram - Order for Pickup](Diagram1.png)
+![UML Activity Diagram - Order for Pickup](images/Diagram1.png)
 
 ## UML Activity Diagram 2 . Nearby Discounts
 
 **User Story:**  
 As a student user, I want to view nearby restaurants and markets that offer discounts or special deals on specific food items, so I can quickly choose a convenient location and know exactly what I am purchasing before pickup.
 
-![UML Activity Diagram - Nearby Discounts](Diagram2.png)
+![UML Activity Diagram - Nearby Discounts](images/Diagram2.png)
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
 

@@ -105,6 +105,16 @@ Tartinery currently offers NYU students a discount of 10% as they want to promot
 **Restaurant Problem**<br>
 Given that they already offer the NYU 10% discount and they have little food waste, Tartinery did not express to us many problems that need solving. However, they did mention that a lot of students don't realize the 10% discount and they have to ask them whether they're students to inform them of such.
 
+### Tandon Deli<br>
+**Restaurant Goals**<br>
+- Increase student foot traffic and become a primary lunch destination for the Tandon campus.
+- Maintain high-speed service for students rushing between classes.
+- Capitalize on their convenient location to capture more consistent daily revenue from the local NYU community.
+
+**Restaurant Problem**<br>
+- High price points create a barrier to entry for budget-conscious students.
+- Low motivation to implement complex discount systems; as a high-volume deli, they prioritize transaction speed over marketing.
+- Lack of a clear value proposition or loyalty incentive, making students view them as a last resort.
 
 ### Butter<br>
 

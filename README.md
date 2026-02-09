@@ -41,6 +41,8 @@ Given that they already offer the NYU 10% discount and they have little food was
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
+### Overview<br>
+
 From our interviews, we realized we needed to pivot from our original idea of a real-time, item-specific discounting system (where both students and restaurants would be active users) to a simpler, student-focused application that clearly displays existing student discounts at nearby restaurants (e.g 10% off at Tartinery). 
 
 This was for two reasons. Firstly, many restaurants near NYU have little to no food waste and the restaurants that do have any waste already use platforms such as TooGoodToGo. The second reason was that many students wanted predictability and clarity. They don't want specific item discounts and they want to have a bit more clarity going into the day where they can get a good deal near Bobst rather than have to wait for sporadic notifications. 

@@ -11,6 +11,7 @@ A little exercise to get started with the specification phase of the software de
 [Ethan Demol](https://github.com/ethandemol) <br>
 [Kyle Chen](https://github.com/KyleC55)<br>
 [Angelina Wu](github.com/TangelinaWu)<br>
+[Karen Maza Delgado](https://github.com/KarenMazaDelgado)<br>
 []()<br>
 []()<br>
 
@@ -72,6 +73,21 @@ Health focused Student Athlete
 **Student Problem**<br>
 - Limited discount visibility on nutritional options leading to her missing opportunities.
 - Few healthy discounts she can find, leading her to just order CAVA daily.
+
+
+
+### Andrew Chacon - NYU Student<br>
+Discount Hunter
+
+**Student Goals**<br>
+- Secure significant discounts (40-50%) even if it requires a 20-minute walk.
+- Find "Mystery Bag" style deals to get a variety of food at a lower price point.
+- Save money on daily meals to support a very frequent deal-based eating habit.
+
+**Student Problem**<br>
+- High social friction and embarrassment when having to verbally ask staff if a discount exists.
+- Low visibility of deals, currently relying on physically walking past stores to spot NYU banners.
+- Frequent disappointment with the actual "discounted" price not being low enough.
 
 
 

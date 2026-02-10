@@ -141,8 +141,8 @@ Budget Conscious
 - Lack of a clear value proposition or loyalty incentive, making students view them as a last resort.
 
 
-### Suki - Restaurant Stakeholder<br>
-Restaurant Staff / Owner Perspective<br>
+### Suki r<br>
+Restaurant Owner<br>
 
 **Restaurant Goals**<br>
 - Promote student deals through flyers and advertising through social media.

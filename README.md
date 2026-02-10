@@ -108,17 +108,26 @@ Budget Conscious
 
 ### Hashi Market<br>
 **Restuarant Goals** <br>
-Hashi Market already offers end-of-day discounts on ready-to-go products and provides student discounts, showing a clear effort to reduce food waste while remaining affordable. With multiple locations and an active social media presence, the brand is well positioned to attract student customers. A key overarching goal is to further minimize food waste while maintaining operational efficiency.
+- Reduce end-of-day food waste while maintaining operational efficiency.
+- Attract more NYU students using existing student discounts and end-of-day promotions.
+- Leverage multiple locations and a strong social media presence to increase student awareness.
+- Maintain fast service without adding operational complexity.
 
 **Restaurant Problem**<br>
-Despite these efforts, Hashi Market faces several operational challenges. Discounts are currently applied manually, which is time-consuming and limits scalability, especially during busy periods. The lack of an automated system also makes it difficult to quickly adjust or toggle discount codes on and off. Additionally, hiring remains a challenge, creating operational strain that indirectly affects waste reduction efforts.
+- Discounts are applied manually, which is time-consuming and difficult to scale during busy periods.
+- Lack of automation makes it difficult to quickly adjust or toggle discounts on and off.
+- Staffing and hiring challenges create operational strain, indirectly impacting waste reduction efforts.
 
 ### Tartinery<br>
 **Restuarant Goals** <br>
-Tartinery currently offers NYU students a discount of 10% as they want to promote students to come during the day, especially during the week when they're less busy. It's very important for them to maintain low food waste levels however they are doing a pretty good job of it currently and anything remaining is on Too Good To Go or goes directly to employees at the end of the day. 
+- Attract NYU students during weekday daytime hours when foot traffic is lower.
+- Maintain consistently low food waste levels.
+- Continue offering a simple, standard student discount without changing existing workflows.
 
 **Restaurant Problem**<br>
-Given that they already offer the NYU 10% discount and they have little food waste, Tartinery did not express to us many problems that need solving. However, they did mention that a lot of students don't realize the 10% discount and they have to ask them whether they're students to inform them of such.
+- Many students are unaware that a 10% NYU student discount exists.
+- Staff often need to ask customers whether they are students to apply the discount, which is inefficient and inconsistent.
+- Limited incentive to expand or modify discount offerings due to already low food waste.
 
 ### Tandon Deli<br>
 **Restaurant Goals**<br>
@@ -145,9 +154,6 @@ Restaurant Staff / Owner Perspective<br>
 - Student discounts may reduce normal profits, and normal customers might be turned away by long lines caused by students.
 - Biggest hurdle: students may wait until the last hour to order food, making it harder to close and clean on time.
 - The restaurant already has a reliable ordering system app.
-
-### Butter<br>
-
 
 
 ### Overview<br>
